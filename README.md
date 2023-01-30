@@ -1,4 +1,4 @@
-# **TeleChat - A Chatting Application **
+# **TeleChat - A Chatting Application**
 
 This is a `Chatting`  application 
 built using [Flutter](https://docs.flutter.dev/). Make sure to have flutter installed on your machine
@@ -32,4 +32,5 @@ Weather Screen.
  4. Try it out.
 
 
-<img src ="" width ="200">
+<img src ="flutter_02.png" width ="200">
+<img src ="flutter_01.png" width ="200">
